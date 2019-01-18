@@ -19,4 +19,4 @@ function greet() {
 }
 
 // TODO: validate name inputs
-// TODO: clear inputs after greet?
+// TODO: clear inputs after greet?  
